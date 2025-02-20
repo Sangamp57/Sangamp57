@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Sangamp57/Sangamp57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am undergraduate student at Yunnan University. Currently studying software Engineering
 
 Here are some ideas to get you started:
 
